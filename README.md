@@ -4,5 +4,4 @@ _The guess-a-number game starts with one player (the chooser) picking a number b
 “higher” (the actual number is higher than the guess), or “lower” (the actual
 number is lower than the guess)._  
 _What is the average number of guesses needed (assuming the chooser picks
-the number randomly as before)?
-_
+the number randomly as before)?_
